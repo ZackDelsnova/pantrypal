@@ -42,9 +42,7 @@
 - [Available Scripts](#available-scripts)
 - [Troubleshooting](#troubleshooting)
 - [Development Workflow](#development-workflow)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
-- [Author / Team](#author--team)
 
 ---
 
