@@ -311,7 +311,7 @@ Start-Service MongoDB
 ### Step 4: Clone the repo
 
 ```powershell
-git clone <YOUR_REPO_URL> pantrypal
+git clone https://github.com/ZackDelsnova/pantrypal.git
 cd pantrypal
 ```
 
